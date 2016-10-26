@@ -30,6 +30,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    private void goHasil() {
+        String nama = etNama.getText().toString();
+        tvHasil.setText("Pelanggan yang bernama" + nam);
 
     }
 }
