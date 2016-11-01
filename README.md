@@ -10,9 +10,9 @@ NIS : 43741272
 Sekolah : SMK Telkom Malang
 
 # File Screenshoot
-![ojek]
-![ojek2]
-![ojek3]
+![ojek](https://cloud.githubusercontent.com/assets/22727562/19880201/d0fd6188-a02d-11e6-92ee-c59744facae1.PNG)
+![ojek2](https://cloud.githubusercontent.com/assets/22727562/19880202/d1039b0c-a02d-11e6-8137-4384b17c4ab5.PNG)
+![ojek3](https://cloud.githubusercontent.com/assets/22727562/19880200/d0fa1942-a02d-11e6-90f3-3df461fb299a.PNG)
 
 
 # Link File APK
